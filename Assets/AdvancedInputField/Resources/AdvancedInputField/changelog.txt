@@ -1,0 +1,6 @@
+2.1.3:
+- Bugfix: Fixed DragMode not updating when changed on runtime from code
+- Bugfix: Added workaround for TextMeshPro line data issue when placeholder text is empty
+- Bugfix: Fixed ActionBar scale incorrect when InputField is scaled
+- Bugfix Mobile: Fixed some text selection issues when switching between hardware and software keyboard
+- Bugfix Mobile: Fixed issue that cursor was gone when hardware keyboard got connected
